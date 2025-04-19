@@ -73,7 +73,7 @@ construction-bidding
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/construction-bidding.git
+   git clone https://github.com/ibuilder/construction-bidding.git
    ```
 
 2. Navigate to the project directory:
